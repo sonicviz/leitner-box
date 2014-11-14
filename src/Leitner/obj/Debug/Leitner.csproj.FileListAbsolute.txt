@@ -1,0 +1,63 @@
+C:\Documents and Settings\Saeed\Desktop\Leitner\Leitner\bin\Debug\Leitner.exe
+C:\Documents and Settings\Saeed\Desktop\Leitner\Leitner\bin\Debug\Leitner.pdb
+C:\Documents and Settings\Saeed\Desktop\Leitner\Leitner\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Saeed\Desktop\Leitner\Leitner\obj\Debug\Leitner.MainForm.resources
+C:\Documents and Settings\Saeed\Desktop\Leitner\Leitner\obj\Debug\Leitner.Properties.Resources.resources
+C:\Documents and Settings\Saeed\Desktop\Leitner\Leitner\obj\Debug\Leitner.csproj.GenerateResource.Cache
+C:\Documents and Settings\Saeed\Desktop\Leitner\Leitner\obj\Debug\Leitner.exe
+C:\Documents and Settings\Saeed\Desktop\Leitner\Leitner\obj\Debug\Leitner.pdb
+C:\Documents and Settings\Saeed\Desktop\Leitner\Leitner\obj\Debug\Leitner.LoginForm.resources
+C:\Documents and Settings\Saeed\Desktop\Leitner\Leitner\obj\Debug\Leitner.Properties.Resource1.resources
+C:\Documents and Settings\Saeed\Desktop\Leitner\Leitner\obj\Debug\Leitner.BaseForms.BaseChildForm.resources
+C:\Documents and Settings\Saeed\Desktop\Leitner\Leitner\obj\Debug\Leitner.BaseForms.BaseMessageBox.resources
+C:\Documents and Settings\Saeed\Desktop\Leitner\Leitner\obj\Debug\Leitner.AboutForm.resources
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.exe
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.pdb
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\bin\Debug\Leitner.exe
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\bin\Debug\Leitner.pdb
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\ResolveAssemblyReference.cache
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.AboutForm.resources
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.BaseForms.BaseChildForm.resources
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.BaseForms.BaseMessageBox.resources
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.LoginForm.resources
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.MainForm.resources
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.Properties.Resources.resources
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.Properties.Resource1.resources
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.csproj.GenerateResource.Cache
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Interop.SpeechLib.dll
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.csproj.ResolveComReference.cache
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\bin\Debug\Interop.SpeechLib.dll
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.ReviewForm.resources
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\bin\Debug\Leitner.mdf
+F:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\bin\Debug\Leitner_log.ldf
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Interop.SpeechLib.dll
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.csproj.ResolveComReference.cache
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.exe
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.pdb
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\bin\Debug\Leitner.mdf
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\bin\Debug\Leitner_log.ldf
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\bin\Debug\Leitner.exe
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\bin\Debug\Leitner.pdb
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\bin\Debug\Interop.SpeechLib.dll
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\ResolveAssemblyReference.cache
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.AboutForm.resources
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.BaseForms.BaseChildForm.resources
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.BaseForms.BaseMessageBox.resources
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.LoginForm.resources
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.MainForm.resources
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.Properties.Resources.resources
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.Properties.Resource1.resources
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.ReviewForm.resources
+D:\Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.csproj.GenerateResource.Cache
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Interop.SpeechLib.dll
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.csproj.ResolveComReference.cache
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.exe
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.pdb
+D:\1_Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Interop.SpeechLib.dll
+D:\1_Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.csproj.ResolveComReference.cache
+D:\1_Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.exe
+D:\1_Programmings\1_Windows Application\C\C_sharp\Programs\Leitner\Leitner\obj\Debug\Leitner.pdb
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Leitner\Leitner\obj\Debug\Interop.SpeechLib.dll
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Leitner\Leitner\obj\Debug\Leitner.csproj.ResolveComReference.cache
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Leitner\Leitner\obj\Debug\Leitner.exe
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Leitner\Leitner\obj\Debug\Leitner.pdb

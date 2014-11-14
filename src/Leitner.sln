@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leitner", "Leitner\Leitner.csproj", "{4E8424C5-291D-42AA-AB53-A066F05F58A3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Leitner.Setup", "Leitner.Setup\Leitner.Setup.vdproj", "{A09D5BC8-A017-49F7-A84B-72363B53FC83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E8424C5-291D-42AA-AB53-A066F05F58A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8424C5-291D-42AA-AB53-A066F05F58A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8424C5-291D-42AA-AB53-A066F05F58A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8424C5-291D-42AA-AB53-A066F05F58A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A09D5BC8-A017-49F7-A84B-72363B53FC83}.Debug|Any CPU.ActiveCfg = Debug
+		{A09D5BC8-A017-49F7-A84B-72363B53FC83}.Release|Any CPU.ActiveCfg = Release
+		{A09D5BC8-A017-49F7-A84B-72363B53FC83}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

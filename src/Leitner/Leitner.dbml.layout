@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Leitner">
+  <DataContextMoniker Name="/LeitnerDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a82b7c5e-32d4-4448-bc67-656b4dfc8514" absoluteBounds="0.75, 1.125, 2, 1.2605004882812498">
+      <DataClassMoniker Name="/LeitnerDataContext/Tbl_User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a1115cfb-29f3-46c5-88cf-9bbd2ca75027" absoluteBounds="0.765, 1.585, 1.9700000000000002, 0.70050048828125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="76b9aceb-044f-4bb2-ad71-e5f595154a2e" absoluteBounds="3.5, 0.875, 2, 1.5891951497395833">
+      <DataClassMoniker Name="/LeitnerDataContext/Tbl_Word" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f8a2de4a-454c-4969-bd0d-5b028b816c5d" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.0291951497395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.75525024414062); (3.5 : 1.75525024414062)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LeitnerDataContext/Tbl_User/Tbl_User_Tbl_Word" />
+      <nodes>
+        <classShapeMoniker Id="a82b7c5e-32d4-4448-bc67-656b4dfc8514" />
+        <classShapeMoniker Id="76b9aceb-044f-4bb2-ad71-e5f595154a2e" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
